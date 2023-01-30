@@ -9,4 +9,4 @@ As adm user
 So That  I can track my companies development
 linha alterada para roteiro de requistos apenas. Linha alterada
 
-outra linha modificada, para commit sem add anterior
+outra linha modificada, para commit sem add anterior, nem flag '-a'
