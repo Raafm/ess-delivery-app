@@ -12,4 +12,4 @@ linha alterada para roteiro de requistos apenas. Linha alterada
 outra linha modificada, para commit sem add anterior, nem flag '-a'
 
 Um novo cenário
-then modificado
+then modificadx.
