@@ -13,3 +13,5 @@ outra linha modificada, para commit sem add anterior, nem flag '-a'
 
 Um novo cenário
 then modificadX com X maiusculo. linha para fixDesenvolvimento
+
+alterado no master para fazer a questao 14
