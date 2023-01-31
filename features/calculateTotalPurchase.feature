@@ -15,3 +15,5 @@ Um novo cenário
 then modificadX com X maiusculo. linha para fixDesenvolvimento
 
 alterado no master para fazer a questao 14
+
+linha alterada na branch desenvolvimento, para questao 14
